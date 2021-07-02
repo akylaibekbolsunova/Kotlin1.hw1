@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kotlin1.hw1</string>
+
+    //MainActivity
+    <string name="write_something_crazy">Write something crazy ^^</string>
+    <string name="send">Send</string>
+
+    //MainActivity2
+    <string name="getting">Getting</string>
+    <string name="save">Save</string>
+    <string name="name_key">name</string>
+</resources>
